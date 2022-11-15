@@ -13,10 +13,10 @@ Spring Boot v2.7.3 <br />
 Java 17 <br />
 	
 # Requirements BE:
-	Node 14.16 <br />
+Node 14.16 <br />
 
 # Frontend
-	http://localhost:10001	 <br />
+http://localhost:10001	 <br />
 
 # Notes	
 I am assuming that estimated points are followed by fibonacci sequence. <br />
