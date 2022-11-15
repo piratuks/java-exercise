@@ -1,13 +1,16 @@
 # Swagger-UI:
-	http://localhost:10000/swagger-ui/#/
+
+http://localhost:10000/swagger-ui/#/
+
 # H2 Console
-	http://localhost:10000/h2-console
+	
+http://localhost:10000/h2-console
 	
 	
 # Requirements BE:
-	Maven <br />
-	Spring Boot v2.7.3 <br />
-	Java 17 <br />
+Maven <br />
+Spring Boot v2.7.3 <br />
+Java 17 <br />
 	
 # Requirements BE:
 	Node 14.16 <br />
