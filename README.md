@@ -5,12 +5,12 @@
 	
 	
 # Requirements BE:
-	- Maven <br />
-	- Spring Boot v2.7.3 <br />
-	- Java 17 <br />
+	Maven <br />
+	Spring Boot v2.7.3 <br />
+	Java 17 <br />
 	
 # Requirements BE:
-	- Node 14.16 <br />
+	Node 14.16 <br />
 
 # Frontend
 	http://localhost:10001	 <br />
