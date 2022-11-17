@@ -1,6 +1,6 @@
 {
     "name": "frontend-exercise",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
@@ -35,7 +35,7 @@
         "zone.js": "~0.11.4"
     },
     "devDependencies": {
-        "@angular-devkit/build-angular": "~15.0.0",
+        "@angular-devkit/build-angular": "~12.2.6",
         "@angular-eslint/builder": "12.7.0",
         "@angular-eslint/eslint-plugin": "12.7.0",
         "@angular-eslint/eslint-plugin-template": "12.7.0",
